@@ -4,7 +4,7 @@ This repository contains a ROS package for integrating Kinova robotic arms with 
 
 ## Installation
 ### ROS
-1. Make sure you have [ROS Melodic](http://wiki.ros.org/melodic/Installation) installed.
+1. Make sure you have [ROS Noetic](https://wiki.ros.org/noetic/Installation/Ubuntu) v1.17.0 installed.
 2. Clone this repository into your `catkin_ws/src` folder:
 
    ```bash
