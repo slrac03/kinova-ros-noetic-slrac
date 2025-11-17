@@ -31,7 +31,7 @@ Then rebuild with:
 catkin build
 ```
 
-Make sure to change the IP address to: 
+Make sure to change the IP address to 192.168.1.X, knowing that the robot Addr is 192.168.1.10
 
 if done correctly:
 ```bash
