@@ -1,4 +1,4 @@
-# Kinova ROS Melodic Integration
+# Kinova ROS Noetic Integration
 
 This repository contains a ROS package for integrating Kinova robotic arms with ROS Melodic. It provides drivers, launch files, and example nodes for controlling Kinova arms using ROS topics and services.
 
@@ -9,7 +9,7 @@ This repository contains a ROS package for integrating Kinova robotic arms with 
 
    ```bash
    cd ~/catkin_ws/src
-   git clone https://github.com/slrac03/kinova-ros-melodic-slrac.git
+   git clone https://github.com/slrac03/kinova-ros-noetic-slrac.git
    
 
 ### Build kortex
