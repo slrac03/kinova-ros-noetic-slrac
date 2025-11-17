@@ -8,6 +8,10 @@ This repository contains a ROS package for integrating Kinova robotic arms with 
 2. Also use [catkin tools](https://catkin--tools-readthedocs-io.translate.goog/en/latest/history.html?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc)
    ```bash
    sudo apt install python3-catkin-tools
+3. Install [ros_bridge_server](https://wiki.ros.org/rosbridge_server)
+
+   ```bash
+   sudo apt install ros-noetic-rosbridge-suite
 
 4. Clone this repository into your `catkin_ws` folder:
 
@@ -27,6 +31,13 @@ Then rebuild with:
 catkin build
 ```
 
+Make sure to change the IP address to: 
+
+if done correctly:
+```bash
+roslaunch file_server ros_sharp_communication.launch 
+```
+   
 
 ### Build kortex
 
