@@ -5,12 +5,28 @@ This repository contains a ROS package for integrating Kinova robotic arms with 
 ## Installation
 ### ROS
 1. Make sure you have [ROS Noetic](https://wiki.ros.org/noetic/Installation/Ubuntu) v1.17.0 installed.
-2. Clone this repository into your `catkin_ws` folder:
+2. Also use [catkin tools](https://catkin--tools-readthedocs-io.translate.goog/en/latest/history.html?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc)
+   ```bash
+   sudo apt install python3-catkin-tools
+
+4. Clone this repository into your `catkin_ws` folder:
 
    ```bash
    cd ~/catkin_ws
    git clone https://github.com/slrac03/kinova-ros-noetic-slrac.git
-   
+
+Make sure to remove the old build artifacts with:
+
+```bash
+rm -rf build devel logs
+```
+
+Then rebuild with:
+
+```bash
+catkin build
+```
+
 
 ### Build kortex
 
