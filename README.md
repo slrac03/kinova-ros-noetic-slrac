@@ -52,11 +52,9 @@ These are the instructions to run in a terminal to create the workspace, clone t
         conan profile update settings.compiler.libcxx=libstdc++11 default
         mkdir -p catkin_workspace/src
         cd catkin_workspace/src
-        git clone -b <branch-name> https://github.com/Kinovarobotics/ros_kortex.git
+        git clone -b noetic-devel https://github.com/Kinovarobotics/ros_kortex.git
         cd ../
         rosdep install --from-paths src --ignore-src -y
-
-> `<branch-name>` corresponds to the branch matching your ROS version (noetic-devel, melodic-devel, kinetic-devel)
 
 > Instructions are for conan V1.X only and it won't work for versions >=2.0.0
 
@@ -68,5 +66,4 @@ Then, to build and source the workspace:
 
 # Build and Run instructions
 
-[C++ API](./api_cpp/examples/readme.md)  
-[Python API](./api_python/examples/readme.md) 
+[Python API](https://github.com/Kinovarobotics/Kinova-kortex2_Gen3_G3L/blob/master/api_python/examples/readme.md) 
