@@ -1,0 +1,1 @@
+/home/carlos/catkin_ws/devel/.private/frank_regal_urdf/lib/pkgconfig/frank_regal_urdf.pc

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/carlos/catkin_ws/devel/.private/kinova_gen3_urdf/setup.sh

@@ -1,0 +1,1 @@
+/home/carlos/catkin_ws/devel/.private/py_nodes/lib/pkgconfig/py_nodes.pc

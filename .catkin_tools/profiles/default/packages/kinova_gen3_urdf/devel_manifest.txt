@@ -1,0 +1,5 @@
+kinova_gen3_urdf
+/home/carlos/catkin_ws/devel/.private/kinova_gen3_urdf/cmake.lock /home/carlos/catkin_ws/devel/./cmake.lock
+/home/carlos/catkin_ws/devel/.private/kinova_gen3_urdf/share/kinova_gen3_urdf/cmake/kinova_gen3_urdfConfig.cmake /home/carlos/catkin_ws/devel/share/kinova_gen3_urdf/cmake/kinova_gen3_urdfConfig.cmake
+/home/carlos/catkin_ws/devel/.private/kinova_gen3_urdf/share/kinova_gen3_urdf/cmake/kinova_gen3_urdfConfig-version.cmake /home/carlos/catkin_ws/devel/share/kinova_gen3_urdf/cmake/kinova_gen3_urdfConfig-version.cmake
+/home/carlos/catkin_ws/devel/.private/kinova_gen3_urdf/lib/pkgconfig/kinova_gen3_urdf.pc /home/carlos/catkin_ws/devel/lib/pkgconfig/kinova_gen3_urdf.pc

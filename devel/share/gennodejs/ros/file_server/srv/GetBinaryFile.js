@@ -1,0 +1,1 @@
+/home/carlos/catkin_ws/devel/.private/file_server/share/gennodejs/ros/file_server/srv/GetBinaryFile.js

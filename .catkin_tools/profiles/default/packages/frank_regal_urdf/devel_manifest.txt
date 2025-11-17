@@ -1,0 +1,5 @@
+frank_regal_urdf
+/home/carlos/catkin_ws/devel/.private/frank_regal_urdf/cmake.lock /home/carlos/catkin_ws/devel/./cmake.lock
+/home/carlos/catkin_ws/devel/.private/frank_regal_urdf/share/frank_regal_urdf/cmake/frank_regal_urdfConfig-version.cmake /home/carlos/catkin_ws/devel/share/frank_regal_urdf/cmake/frank_regal_urdfConfig-version.cmake
+/home/carlos/catkin_ws/devel/.private/frank_regal_urdf/share/frank_regal_urdf/cmake/frank_regal_urdfConfig.cmake /home/carlos/catkin_ws/devel/share/frank_regal_urdf/cmake/frank_regal_urdfConfig.cmake
+/home/carlos/catkin_ws/devel/.private/frank_regal_urdf/lib/pkgconfig/frank_regal_urdf.pc /home/carlos/catkin_ws/devel/lib/pkgconfig/frank_regal_urdf.pc

@@ -1,0 +1,8 @@
+prefix=/home/carlos/catkin_ws/install
+
+Name: py_nodes
+Description: Description of py_nodes
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,1 @@
+/home/carlos/catkin_ws/devel/.private/kinova_mov/lib/pkgconfig/kinova_mov.pc

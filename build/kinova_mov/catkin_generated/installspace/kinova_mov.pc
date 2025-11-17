@@ -1,0 +1,8 @@
+prefix=/home/carlos/catkin_ws/install
+
+Name: kinova_mov
+Description: Description of kinova_mov
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

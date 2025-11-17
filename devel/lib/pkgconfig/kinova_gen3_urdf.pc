@@ -1,0 +1,1 @@
+/home/carlos/catkin_ws/devel/.private/kinova_gen3_urdf/lib/pkgconfig/kinova_gen3_urdf.pc

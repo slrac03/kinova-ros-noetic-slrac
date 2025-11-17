@@ -1,0 +1,1 @@
+/home/carlos/catkin_ws/devel/.private/frank_regal_urdf/share/frank_regal_urdf/cmake/frank_regal_urdfConfig.cmake

@@ -1,0 +1,1 @@
+/home/carlos/catkin_ws/devel/.private/kinova_gen3_urdf/share/kinova_gen3_urdf/cmake/kinova_gen3_urdfConfig.cmake

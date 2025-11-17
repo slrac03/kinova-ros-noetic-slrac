@@ -1,0 +1,15 @@
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target _file_server_generate_messages_check_deps_SaveBinaryFile
+[  0%] Built target _file_server_generate_messages_check_deps_GetBinaryFile
+[ 28%] Built target file_server_generate_messages_lisp
+[ 28%] Built target file_server_generate_messages_cpp
+[ 50%] Built target file_server_generate_messages_eus
+[ 71%] Built target file_server_generate_messages_py
+[ 85%] Built target file_server_generate_messages_nodejs
+[ 85%] Built target file_server_gencpp
+[ 85%] Built target file_server_generate_messages
+[100%] Built target file_server

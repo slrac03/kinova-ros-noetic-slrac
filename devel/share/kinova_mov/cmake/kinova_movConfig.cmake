@@ -1,0 +1,1 @@
+/home/carlos/catkin_ws/devel/.private/kinova_mov/share/kinova_mov/cmake/kinova_movConfig.cmake

@@ -1,0 +1,1 @@
+/home/carlos/catkin_ws/devel/.private/py_nodes/share/py_nodes/cmake/py_nodesConfig-version.cmake

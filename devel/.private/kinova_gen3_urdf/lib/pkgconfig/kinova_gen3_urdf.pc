@@ -1,0 +1,8 @@
+prefix=/home/carlos/catkin_ws/devel/.private/kinova_gen3_urdf
+
+Name: kinova_gen3_urdf
+Description: Description of kinova_gen3_urdf
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
