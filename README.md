@@ -31,13 +31,7 @@ Then rebuild with:
 catkin build
 ```
 
-Make sure to change the IP address to 192.168.1.X, knowing that the robot Addr is 192.168.1.10
-
-if done correctly:
-```bash
-roslaunch file_server ros_sharp_communication.launch 
-```
-   
+Make sure to change the IP address to 192.168.1.X, knowing that the robot Addr is 192.168.1.10  
 
 ### Build kortex
 
@@ -62,6 +56,14 @@ Then, to build and source the workspace:
 
         catkin_make
         source devel/setup.bash
+
+if done correctly use:
+```bash
+roslaunch file_server ros_sharp_communication.launch 
+```
+This will start the *ros_bridge_server* along with the *kinova_mov* pkg to manipulate the robotic arm
+
+## Make sure that the ROS environment is running before starting the [UNITY Environment](https://github.com/slrac03/Kinova-unity-digital-twin)
 
 
 # Build and Run instructions
