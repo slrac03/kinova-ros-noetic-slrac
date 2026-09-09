@@ -1,3 +1,11 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Project structure
+This project is organized into two complementary repositories:
+Kinova Unity Digital Twin: contains the Unity-based XR digital twin of the Kinova Gen3 robotic arm, including hand-tracking interaction with Meta Quest 3, inverse kinematics control, ROS communication, and the NLP-based virtual assistant.
+Kinova ROS Noetic Integration: contains the ROS environment required for communication with the Kinova Gen3 robotic arm, including the ROS bridge, Kortex integration, and the packages needed to exchange information with the Unity environment.
+This README corresponds to the Kinova ROS Noetic Integration repository.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 # Kinova ROS Noetic Integration
 
 This repository contains a ROS package for integrating Kinova robotic arms with ROS Melodic. It provides drivers, launch files, and example nodes for controlling Kinova arms using ROS topics and services.
